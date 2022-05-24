@@ -1,0 +1,38 @@
+body{
+  background-color: rgb(125, 128, 88);
+}
+.back{
+  background-color: rgb(111, 135, 155);
+  padding: 10px;
+}
+.center{
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.short{
+  height: 80px;
+  width: 20vh;
+  background-color: #866840;
+  font-size: xx-large;
+}
+.bottom{
+  align-items: flex-end;
+  justify-content: center
+}
+
+.input{
+  height: 15vh;
+  width: 15vh ;
+  font-size: xx-large;
+  
+}
+input {
+  text-align:center;
+}
+
+.text{
+  font-size: xx-large;
+}
